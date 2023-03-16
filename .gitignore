@@ -1,6 +1,6 @@
-.vscode
+.vscode/
 yarn.lock
 package-lock.json
 .pytest_cache
-node_modules
+node_modules/
 pnpm-lock.yaml
