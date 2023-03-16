@@ -57,6 +57,11 @@ Now, your website is successfully deployed and you can visit it at `<your-github
 
 - [UnDraw](https://undraw.co/illustrations)
 
+# TODO
+
+- Add Blog or link to a medium post
+- Modify Portfolio
+
 # References
 
 Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com/saadpasta/developerFolio
