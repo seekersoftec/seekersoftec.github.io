@@ -3,4 +3,5 @@ yarn.lock
 package-lock.json
 .pytest_cache
 node_modules/
+build/
 pnpm-lock.yaml
