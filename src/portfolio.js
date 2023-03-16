@@ -3,7 +3,7 @@
 // Website related settings
 const settings = {
   isSplash: true, // Change this to true if you want to use the splash screen.
-  useCustomCursor: true, // Change this to false if you want the good'ol cursor
+  useCustomCursor: false, // Change this to false if you want the good'ol cursor
   // googleTrackingID: "UA-174238252-2",
 };
 
@@ -11,9 +11,9 @@ const settings = {
 const greeting = {
   title: "Hello 👋.",
   title2: "Samuel",
-  logo_name: "harry.k()",
+  logo_name: "seekersoftec()",
   nickname: "DAlienSeeker",
-  full_name: "Ojietohamen Samuel",
+  full_name: "Ojietohamen Samuel Ebosetale",
   subTitle: "Software Engineer, Open Source Enthusiast 🔥. Always learning.",
   resumeLink:
     "https://drive.google.com/file/d/1hfP_yNHjW-LtAX0arADvkv0Jmc0beaM0/view?usp=sharing",
@@ -543,7 +543,7 @@ const projectsHeader = {
 const contactPageData = {
   contactSection: {
     title: "Contact Me",
-    profile_image_path: "harikrushn1.jpg",
+    profile_image_path: "profile_image.jpg",
     description:
       "You can contact me at the places mentioned below. I will try to get back to you as fast as I can. ",
   },
