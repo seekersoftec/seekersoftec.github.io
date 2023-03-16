@@ -63,3 +63,4 @@ Based on https://github.com/ashutosh1919/masterPortfolio/ and https://github.com
 Illustrations: https://undraw.co/
 
 <!-- "deploy": "gh-pages -b gh-pages -d build" -->
+<!-- https://www.favicon-generator.org/ -->
