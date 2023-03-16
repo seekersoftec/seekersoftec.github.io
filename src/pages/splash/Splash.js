@@ -11,8 +11,8 @@ function AnimatedSplash(props) {
         <div class="ball"></div>
         <div class="ball"></div>
         <div class="ball"></div>
-        {/* <div class="ball"></div> */}
-        {/* <div class="ball"></div> */}
+        <div class="ball"></div>
+        <div class="ball"></div>
       </div>
     </div>
   );
